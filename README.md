@@ -4,7 +4,7 @@ Soy un ingeniero de software apasionado por la construcción de nuevas herramien
 
 - **Angular**: Framework para construir aplicaciones web escalables y dinámicas.
 - **TypeScript**: Lenguaje de programación de alto nivel que permite escribir código JavaScript más estructurado y escalable.
-- **API (.Net Framework)**: Desarrollo de API utilizando .NET Framework para crear servicios robustos y escalables.
+- **API (.NET Framework, .NET 5, 6, 7+)**: Desarrollo de API utilizando .NET Framework para crear servicios robustos y escalables.
 - **SQL Server**: Gestión de bases de datos relacionales para almacenar y consultar datos de manera eficiente.
 
 Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últimas tendencias en el desarrollo de software. Siempre estoy buscando nuevos desafíos y oportunidades para seguir creciendo profesionalmente.
