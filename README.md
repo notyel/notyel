@@ -6,6 +6,7 @@ Soy un ingeniero de software apasionado por la construcción de nuevas herramien
 - **TypeScript**: Lenguaje de programación de alto nivel que permite escribir código JavaScript más estructurado y escalable.
 - **API (.NET Framework, .NET 5, 6, 7+)**: Desarrollo de API utilizando .NET Framework para crear servicios robustos y escalables.
 - **SQL Server**: Gestión de bases de datos relacionales para almacenar y consultar datos de manera eficiente.
+- **Python:** Lenguaje de programación versátil utilizado en diversos campos, desde desarrollo web hasta inteligencia artificial.
 
 Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últimas tendencias en el desarrollo de software. Siempre estoy buscando nuevos desafíos y oportunidades para seguir creciendo profesionalmente.
 
