@@ -12,3 +12,12 @@ Soy un ingeniero de software apasionado por la construcción de nuevas herramien
 Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últimas tendencias en el desarrollo de software. Siempre estoy buscando nuevos desafíos y oportunidades para seguir creciendo profesionalmente.
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o si quieres colaborar en un proyecto interesante!
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/notyel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notyel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notyel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
