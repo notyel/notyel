@@ -26,7 +26,7 @@ Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últim
       srcset="https://github-readme-stats.vercel.app/api?username=notyel&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notyel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notyel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </picture>
   
   <picture>
@@ -38,7 +38,7 @@ Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últim
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=notyel&show_icons=true&layout=compact&langs_count=8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notyel&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notyel&layout=compact&langs_count=8&theme=algolia"/>
   </picture>
  </a>
 </p>
