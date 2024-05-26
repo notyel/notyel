@@ -11,7 +11,7 @@ Soy un ingeniero de software apasionado por la construcción de nuevas herramien
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,git,ts,angular,vscode,express,cpp,docker,sqlite,postgres,firebase,reactivex,redis,github,html,css,js,windows,linux,mint,ubuntu,md,npm,materialui,nginx,mysql,nodejs,postman,py,kubernetes,gmail,arduino,ps,stackoverflow,discord,twitter,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,git,ts,html,css,js,angular,bootstrap,vscode,express,cpp,docker,sqlite,postgres,bash,firebase,reactivex,redis,github,windows,linux,mint,ubuntu,md,npm,materialui,nginx,mysql,nodejs,postman,py,kubernetes,gmail,arduino,ps,stackoverflow,discord,twitter,wordpress&perline=14" />
   </a>
 </p>
 
