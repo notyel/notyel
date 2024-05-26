@@ -9,9 +9,17 @@ Soy un ingeniero de software apasionado por la construcción de nuevas herramien
 - **Azure**: Plataforma en la nube de Microsoft que ofrece servicios de computación, almacenamiento, bases de datos y mucho más para ayudar a empresas a crecer y escalar.
 - **Python:** Lenguaje de programación versátil utilizado en diversos campos, desde desarrollo web hasta inteligencia artificial.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,git,ts,angular,vscode,express,cpp,docker,sqlite,postgres,firebase,reactivex,redis,github,html,css,js,windows,linux,mint,ubuntu,md,npm,materialui,nginx,mysql,nodejs,postman,py,kubernetes,gmail,arduino,ps,stackoverflow,discord,twitter,wordpress&perline=14" />
+  </a>
+</p>
+
 Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últimas tendencias en el desarrollo de software. Siempre estoy buscando nuevos desafíos y oportunidades para seguir creciendo profesionalmente.
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o si quieres colaborar en un proyecto interesante!
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
