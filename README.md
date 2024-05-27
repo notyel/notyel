@@ -21,7 +21,7 @@ Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últim
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
  <a href="https://github.com/notyel">
