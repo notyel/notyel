@@ -17,7 +17,7 @@ Soy un ingeniero de software apasionado por la construcción de nuevas herramien
 
 Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últimas tendencias en el desarrollo de software. Siempre estoy buscando nuevos desafíos y oportunidades para seguir creciendo profesionalmente.
 
-¡No dudes en contactarme si tienes alguna pregunta, sugerencia o si quieres colaborar en un proyecto interesante!
+**¡No dudes en contactarme si tienes alguna pregunta, sugerencia o si quieres colaborar en un proyecto interesante!**
 
 
 
