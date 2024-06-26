@@ -34,7 +34,7 @@ Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últim
       srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=notyel&show_icons=true&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notyel&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notyel&show_icons=true&include_all_commits=true&count_private=true"/>
   </picture>
   
   <picture>
