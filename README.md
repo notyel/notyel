@@ -27,7 +27,7 @@ Me apasiona aprender nuevas tecnologías y mantenerme actualizado con las últim
  <a href="https://github.com/notyel">
   <picture>
     <source
-      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=notyel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=notyel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
