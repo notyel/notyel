@@ -1,4 +1,7 @@
 # ¡Hola! 👋🏾 Soy Leyton 👩🏾‍💻
+### Fullstack developer | .NET · Angular · SQL · TypeScript · Python
+
+![https://github.com/notyel](./leyton_network_github_profile.png)
 
 Soy un ingeniero de software apasionado por la construcción de nuevas herramientas y crear tecnología para elevar a las personas y construir una comunidad. Disfruto trabajando con una variedad de tecnologías, incluyendo:
 
