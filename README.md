@@ -3,6 +3,8 @@
 
 ![https://github.com/notyel](./leyton_network_github_profile.png)
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Leyton_Network?style=social)](https://twitter.com/Leyton_Network)
+
 Soy un ingeniero de software apasionado por la construcción de nuevas herramientas y crear tecnología para elevar a las personas y construir una comunidad. Disfruto trabajando con una variedad de tecnologías, incluyendo:
 
 - **Angular**: Framework para construir aplicaciones web escalables y dinámicas.
